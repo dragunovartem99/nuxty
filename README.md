@@ -1,75 +1,25 @@
-# Nuxt 3 Minimal Starter
+# Nuxty
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Шаблон для легкого старта на Nuxt3
 
-## Setup
+[Документация Nuxt 3](https://nuxt.com/docs/getting-started/introduction)
 
-Make sure to install the dependencies:
+## Прежде, чем начать
 
-```bash
-# npm
-npm install
+1. Установите nvm
+2. `nvm install --lts`
+3. `npm install --global yarn`
+4. `yarn install`
 
-# pnpm
-pnpm install
+## Команды в терминале
 
-# yarn
-yarn install
+Запустить локальный сервер на `http://localhost:3000`:
+- `yarn dev`
 
-# bun
-bun install
-```
+Собрать приложение для публикации:
+- `yarn build`
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
+Предпросмотр собранного приложения:
+- `yarn preview`
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
