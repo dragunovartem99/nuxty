@@ -1,13 +1,13 @@
 @font-face {
-	font-family: "Caveat";
-	src: url("/fonts/Caveat-VariableFont_wght.ttf") format("truetype");
+	font-family: "Unbounded";
+	src: url("/fonts/Unbounded-VariableFont_wght.ttf") format("truetype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
 }
 
 body {
-	font-family: "Caveat";
+	font-family: "Unbounded";
 	display: flex;
 	justify-content: center;
 	align-items: center;
