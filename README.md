@@ -1,6 +1,6 @@
-# Nuxty
+# nuxty
 
-Шаблон для легкого старта на Nuxt 3 для небольших и средних веб-приложений.
+Шаблон для легкого старта на Nuxt 3 для небольших и средних веб-приложений
 
 Основные модули:
 
@@ -18,12 +18,15 @@
 ## Команды в терминале
 
 Запустить локальный сервер на `http://localhost:3000`:
-- `yarn dev`
+
+-   `yarn dev`
 
 Собрать приложение для публикации:
-- `yarn build`
+
+-   `yarn build`
 
 Предпросмотр собранного приложения:
-- `yarn preview`
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+-   `yarn preview`
+
+Документация Nuxt: [о публикации приложений](https://nuxt.com/docs/getting-started/deployment)
