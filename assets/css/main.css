@@ -1,13 +1,14 @@
 @font-face {
-	font-family: "Caveat";
-	src: url("/fonts/Caveat-VariableFont_wght.ttf") format("truetype");
+	font-family: "ShantellSans";
+	src: url("/fonts/ShantellSans-VariableFont_BNCE,INFM,SPAC,wght.ttf")
+		format("truetype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
 }
 
 body {
-	font-family: "Caveat";
+	font-family: "ShantellSans";
 	display: flex;
 	justify-content: center;
 	align-items: center;
