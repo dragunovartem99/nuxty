@@ -1,8 +1,12 @@
 # Nuxty
 
-Шаблон для легкого старта на Nuxt3
+Шаблон для легкого старта на Nuxt 3 для небольших и средних веб-приложений.
 
-[Документация Nuxt 3](https://nuxt.com/docs/getting-started/introduction)
+Основные модули:
+
+1. [Nuxt 3](https://nuxt.com/)
+2. [Nuxt UI](https://ui.nuxt.com/)
+3. [Tailwind CSS](https://tailwindcss.com/)
 
 ## Прежде, чем начать
 
